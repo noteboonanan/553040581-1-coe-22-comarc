@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/Project/COA/ALU_32/register_file_tb_isim_beh.exe" -prj "E:/Project/COA/ALU_32/register_file_tb_beh.prj" "work.register_file_tb" 
